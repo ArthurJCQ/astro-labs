@@ -24,4 +24,7 @@ npm-debug.log
 yarn-error.log
 ###< symfony/webpack-encore-bundle ###
 
+###> Docker ###
+/docker/logs/
 /.data/
+###< Docker ###
